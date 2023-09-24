@@ -1,0 +1,22 @@
+Patch Notes:
+v2.73
+-Fixed Options Menu
+-Minor bugfixes
+
+v2.7
+-Fixed updater (hopefully for good this time)
+
+v2.6
+-Corrected mouse movement error on options menu
+-Fixed sound effect volume bug
+-Broke updater (the next update will be another "you need to go onlne" type)
+
+2.5 and earlier
+-Added patch notes to updater
+-Added AI improvements that are randomly activated on spawn
+-Added music system
+-Added in game options menu
+-Changed hiscores methods to use pure TCP (should fix client needing port forwarding)
+-Fixed updater
+-Fixed options stuck arrow glitch
+-Updated highscore system to support future expansion
