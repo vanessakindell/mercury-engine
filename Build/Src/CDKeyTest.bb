@@ -1,4 +1,4 @@
-; Test CD key include for Nate Works internal programs only!!!
+; Test CD key include for this component internal programs only!!!  -- OVERRULED
 ; Not cleared for public release.
 
 ; M1#,M2#,M3#,M4#

@@ -1,5 +1,5 @@
 ; Murcury Engine
-; Created by Nate Kindell
+; Created by Sonic Waves TMs
 ; Main Include File
 
 ; Last Modified 8/24/10
