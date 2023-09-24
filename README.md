@@ -1,5 +1,5 @@
 # mercury-engine
-Engine built in Blitz3D to run space shooters
+Engine built in Blitz3D to run the Attack on Planet series of simple space shooters. Developed as a programming excersise in the form of a coding sprint.
 
 Built using Blitz3D v1.94. Compatibility with other versions is untested and not supported.
 It will not work with BlitzBasic, BlitzPlus, BlitzMax, or Max3D.
